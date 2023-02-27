@@ -19,7 +19,7 @@ public class Triangle {
 
     // Set color with red, green, blue and alpha (opacity) values
     float color[] = {
-            1.0f, 0.0f, 0.0f, 1.0f
+            1.0f, 1.0f, 1.0f, 1.0f
     };
 
     private final String vertexShaderCode =
